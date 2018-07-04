@@ -1,3 +1,5 @@
+// Pair programmed with Aaron and Jonathan
+
 function countLetters(input){
   input = input.split(" ").join("");
   var letterCount = {};
